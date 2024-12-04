@@ -1,0 +1,30 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+/* tariq khan  */
+body{
+    background: #4e3297;
+   text-align: center;
+}
+.card {
+    background: #ccc;
+    padding: 20px;
+    width: 700px;
+    margin: 20px;
+    border-radius: 20px;
+}
+
+/* scrollbar  */
+
+::-webkit-scrollbar {
+    background-color: transparent;
+    width: 7px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: linear-gradient(#52ACFF, #FFE32C);
+    border-radius: 60px;
+}
